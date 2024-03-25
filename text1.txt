@@ -1,1 +1,1 @@
-A CLIENT UPDATE WILL BE AVAILABLE ON MONDAY 25TH MARCH @ 12PM GMT. YOU WILL NEED CLIENT VERSION 1.3.0 TO CONNECT TO THE SERVER
+To get started with the Aether, you must construct a portal with a Glowstone frame and light it with a water bucket in the middle, this will activate the portal and allow you to step through and enter the dimension. From here you can begin your survival in the Aether’s hostile paradise!
