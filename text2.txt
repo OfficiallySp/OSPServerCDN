@@ -1,1 +1,1 @@
-The insert upgrade takes items in specific slots of your inventory and dumps them into your ME system. The export card works exactly the same but will pull items from your ME system into your inventory. Open up your wireless terminal and add the insert or export card in the slot on the right.
+Side Quests Part Three Release On 01/04/2024 @ 12:00PM BST. This is not an april fools joke. so dont worry. 
